@@ -1,0 +1,47 @@
+body {
+    background-color: lightgreen;
+}
+
+.card {
+    margin: 5px 5px;
+    float: left;
+    background-color: crimson;
+}
+.card-color {
+    background-color: pink;
+
+}
+#card-lighyellow {
+    background-color: lightyellow ;
+}
+
+#card-gold {
+    background-color: gold;
+}
+
+#card-hotpink {
+    background-color: hotpink;
+
+}
+
+#card-green {
+    background-color: green;
+
+}
+
+
+.clear {
+    clear: both;
+}
+
+
+.jumbotron {
+    background-color: yellowgreen;
+    margin-top: 10px;
+}
+
+.footer-text {
+    text-align: center;
+    border: 5px red solid;
+    border-radius: 10px;
+}
